@@ -6,10 +6,5 @@ Pasta
 Beans
 pizza
 
-pasta 
-butter
-
-done my changes
-Thankyou....
-
-Master final copy
+done with new branch 
+added mirchi spicy
